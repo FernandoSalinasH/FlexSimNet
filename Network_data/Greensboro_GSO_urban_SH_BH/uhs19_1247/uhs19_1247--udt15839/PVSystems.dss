@@ -1,0 +1,11 @@
+New PVSystem.pv_load_p1ulv51387 bus1=p1ulv51387.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0352_-79.9153_25_180
+New PVSystem.pv_load_p1ulv43220 bus1=p1ulv43220.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0352_-79.9153_25_180
+New PVSystem.pv_load_p1ulv56991 bus1=p1ulv56991.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0352_-79.9153_15_135
+New PVSystem.pv_load_p1ulv44888 bus1=p1ulv44888.1.2.3 phases=3 kV=0.48 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0352_-79.9153_15_180
+
+New XYCurve.VoltVarCurve_uhs19_1247_uhs19_1247--udt15839 npts=6 Yarray=(1.0,1.0,0.0,0.0,-1.0,-1.0) Xarray=(0.5,0.92,0.98,1.02,1.08,1.5)
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv56991 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs19_1247_uhs19_1247--udt15839 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv56991]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv44888 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs19_1247_uhs19_1247--udt15839 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv44888]
+

@@ -1,0 +1,24 @@
+New Load.load_p1ulv40270_1 conn=wye bus1=p1ulv40270.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=8.976208258881583 kvar=1.6907738631524982 Phases=1 yearly=com_kw_13802_pu
+
+New Load.load_p1ulv40270_2 conn=wye bus1=p1ulv40270.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=8.976208258881583 kvar=1.6907738631524982 Phases=1 yearly=com_kw_13802_pu
+
+New Load.load_p1ulv41645 conn=wye bus1=p1ulv41645.1.2.3 kV=0.48 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=37.1353383236357 kvar=8.287309748835366 Phases=3 yearly=com_kw_13540_pu
+
+New Load.load_p1ulv43220_1 conn=wye bus1=p1ulv43220.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=6.561178817157376 kvar=1.3046203108505008 Phases=1 yearly=com_kw_14250_pu
+
+New Load.load_p1ulv43220_2 conn=wye bus1=p1ulv43220.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=6.561178817157376 kvar=1.3046203108505008 Phases=1 yearly=com_kw_14250_pu
+
+New Load.load_p1ulv44888 conn=wye bus1=p1ulv44888.1.2.3 kV=0.48 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=17.670148324826634 kvar=1.1926876026834234 Phases=3 yearly=com_kw_14894_pu
+
+New Load.load_p1ulv46241 conn=wye bus1=p1ulv46241.1.2.3 kV=0.48 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=106.77581933134326 kvar=4.759264173509769 Phases=3 yearly=com_kw_14870_pu
+
+New Load.load_p1ulv51387_1 conn=wye bus1=p1ulv51387.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=6.847378896370207 kvar=0.2857422414791666 Phases=1 yearly=com_kw_14382_pu
+
+New Load.load_p1ulv51387_2 conn=wye bus1=p1ulv51387.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=6.847378896370207 kvar=0.2857422414791666 Phases=1 yearly=com_kw_14382_pu
+
+New Load.load_p1ulv56681 conn=wye bus1=p1ulv56681.1.2.3 kV=0.48 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=118.24050080990783 kvar=24.521506781351846 Phases=3 yearly=com_kw_14287_pu
+
+New Load.load_p1ulv56991_1 conn=wye bus1=p1ulv56991.1 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.514038245319737 kvar=0.28269583311839436 Phases=1 yearly=com_kw_14842_pu
+
+New Load.load_p1ulv56991_2 conn=wye bus1=p1ulv56991.2 kV=0.12 Vminpu=0.8 Vmaxpu=1.2 model=1 kW=3.514038245319737 kvar=0.28269583311839436 Phases=1 yearly=com_kw_14842_pu
+

@@ -1,0 +1,3 @@
+New Storage.storage_sb8_uhs17_1247_node_8_4 phases=3 bus1=sb8_uhs17_1247_node_8_4.1.2.3 kV=12.47 kVA=1100.0 kWRated=1000.0 kWhRated=2000.0 kWhStored=1000.0 State=IDLING %EffCharge=95.0 %EffDischarge=95.0
+New Storage.storage_sb8_uhs17_1247_node_8_4_1 phases=3 bus1=sb8_uhs17_1247_node_8_4.1.2.3 kV=12.47 kVA=1100.0 kWRated=1000.0 kWhRated=2000.0 kWhStored=1000.0 State=IDLING %EffCharge=95.0 %EffDischarge=95.0
+New Storage.storage_sb8_uhs17_1247_node_8_4_2 phases=3 bus1=sb8_uhs17_1247_node_8_4.1.2.3 kV=12.47 kVA=1100.0 kWRated=1000.0 kWhRated=2000.0 kWhStored=1000.0 State=IDLING %EffCharge=95.0 %EffDischarge=95.0

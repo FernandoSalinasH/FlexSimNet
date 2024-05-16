@@ -1,0 +1,2 @@
+New Transformer.sb8_uhs19_1247_trans_2 phases=3 windings=2 wdg=1 conn=delta Kv=69.0 kva=16000.0 %R=0.370153834758116 bus=sb8_uhs19_1247_node_8_9 wdg=2 conn=wye Kv=12.47 kva=16000.0 %R=0.370153834758116 bus=sb8_uhs19_1247_node_8_4 XHL=6.731656556895932
+

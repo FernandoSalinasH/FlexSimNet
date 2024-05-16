@@ -1,0 +1,15 @@
+New PVSystem.pv_load_p1ulv11177 bus1=p1ulv11177.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv16499 bus1=p1ulv16499.1.2.3 phases=3 kV=0.48 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv31036 bus1=p1ulv31036.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv14926 bus1=p1ulv14926.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1umv22 bus1=p1umv22.1.2.3 phases=3 kV=12.47 kVA=250.0 Pmpp=300.0 kvarlimit=110.0 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv35923 bus1=p1ulv35923.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+
+New XYCurve.VoltVarCurve_uhs11_1247_uhs11_1247--p1umv22 npts=6 Yarray=(1.0,1.0,0.0,0.0,-1.0,-1.0) Xarray=(0.5,0.92,0.98,1.02,1.08,1.5)
+
+New InvControl.InvPVCtrVV_pv_load_p1umv22 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs11_1247_uhs11_1247--p1umv22 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1umv22]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv35923 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs11_1247_uhs11_1247--p1umv22 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv35923]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv14926 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs11_1247_uhs11_1247--p1umv22 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv14926]
+

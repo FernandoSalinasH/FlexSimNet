@@ -1,0 +1,41 @@
+Clear
+
+New Circuit.substation_uhs1_69 bus1=uhs1_69 pu=1.0 basekV=69.0 R1=1e-05 X1=1e-05 R0=1e-05 X0=1e-05
+
+Redirect LineCodes.dss
+Redirect uhs1_1247--udt15926/LineCodes.dss
+Redirect uhs1_1247--udt20176/LineCodes.dss
+Redirect Lines.dss
+Redirect uhs1_1247--udt15926/Lines.dss
+Redirect uhs1_1247--udt20176/Lines.dss
+Redirect Transformers.dss
+Redirect uhs1_1247--udt15926/Transformers.dss
+Redirect uhs1_1247--udt20176/Transformers.dss
+Redirect Regulators.dss
+Redirect LoadShapes.dss
+Redirect uhs1_1247--udt15926/Loads.dss
+Redirect uhs1_1247--udt20176/Loads.dss
+Redirect uhs1_1247--udt15926/Capacitors.dss
+Redirect uhs1_1247--udt20176/Capacitors.dss
+Redirect Storage.dss
+Redirect uhs1_1247--udt15926/Storage.dss
+Redirect uhs1_1247--udt20176/Storage.dss
+Redirect uhs1_1247--udt15926/PVSystems.dss
+Redirect uhs1_1247--udt20176/PVSystems.dss
+new monitor.m1 element=Line.sb8_uhs1_1247_403 mode=0
+new monitor.m2 element=Line.sb8_uhs1_1247_403 mode=1
+new energymeter.m3 Line.sb8_uhs1_1247_403
+
+Set Voltagebases=[0.12, 0.208, 0.24, 0.48, 7.2, 12.47, 69.0]
+
+Calcvoltagebases
+
+Buscoords Buscoords.dss
+set maxcontroliter=50
+
+Solve mode=yearly stepsize=15m number=35040
+Export monitors m1
+Plot monitor object= m1 channels=(7 9 11 )
+Export monitors m2
+Plot monitor object= m2 channels=(1 3 5 )
+Plot Profile Phases=All

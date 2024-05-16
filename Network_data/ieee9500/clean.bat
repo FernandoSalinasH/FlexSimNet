@@ -1,0 +1,5 @@
+del *.dsv
+del *.dbl
+del *.Txt
+del *.csv
+rd /s /q graph

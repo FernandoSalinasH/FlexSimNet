@@ -1,0 +1,55 @@
+Clear
+
+New Circuit.substation_uhs4_69 bus1=uhs4_69 pu=1.0 basekV=69.0 R1=1e-05 X1=1e-05 R0=1e-05 X0=1e-05
+
+Redirect LineCodes.dss
+Redirect uhs4_1247--p1umv7/LineCodes.dss
+Redirect uhs4_1247--p1umv8/LineCodes.dss
+Redirect uhs4_1247--udt11389/LineCodes.dss
+Redirect uhs4_1247--udt12982/LineCodes.dss
+Redirect Lines.dss
+Redirect uhs4_1247--p1umv7/Lines.dss
+Redirect uhs4_1247--p1umv8/Lines.dss
+Redirect uhs4_1247--udt11389/Lines.dss
+Redirect uhs4_1247--udt12982/Lines.dss
+Redirect Transformers.dss
+Redirect uhs4_1247--p1umv7/Transformers.dss
+Redirect uhs4_1247--p1umv8/Transformers.dss
+Redirect uhs4_1247--udt11389/Transformers.dss
+Redirect uhs4_1247--udt12982/Transformers.dss
+Redirect Regulators.dss
+Redirect LoadShapes.dss
+Redirect uhs4_1247--p1umv7/Loads.dss
+Redirect uhs4_1247--p1umv8/Loads.dss
+Redirect uhs4_1247--udt11389/Loads.dss
+Redirect uhs4_1247--udt12982/Loads.dss
+Redirect uhs4_1247--p1umv7/Capacitors.dss
+Redirect uhs4_1247--p1umv8/Capacitors.dss
+Redirect uhs4_1247--udt11389/Capacitors.dss
+Redirect uhs4_1247--udt12982/Capacitors.dss
+Redirect Storage.dss
+Redirect uhs4_1247--p1umv7/Storage.dss
+Redirect uhs4_1247--p1umv8/Storage.dss
+Redirect uhs4_1247--udt11389/Storage.dss
+Redirect uhs4_1247--udt12982/Storage.dss
+Redirect uhs4_1247--p1umv7/PVSystems.dss
+Redirect uhs4_1247--p1umv8/PVSystems.dss
+Redirect uhs4_1247--udt11389/PVSystems.dss
+Redirect uhs4_1247--udt12982/PVSystems.dss
+new monitor.m1 element=Line.sb10_uhs4_1247_349 mode=0
+new monitor.m2 element=Line.sb10_uhs4_1247_349 mode=1
+new energymeter.m3 Line.sb10_uhs4_1247_349
+
+Set Voltagebases=[0.12, 0.208, 0.24, 0.48, 7.2, 12.47, 69.0]
+
+Calcvoltagebases
+
+Buscoords Buscoords.dss
+set maxcontroliter=50
+
+Solve mode=yearly stepsize=15m number=35040
+Export monitors m1
+Plot monitor object= m1 channels=(7 9 11 )
+Export monitors m2
+Plot monitor object= m2 channels=(1 3 5 )
+Plot Profile Phases=All

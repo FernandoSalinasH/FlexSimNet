@@ -1,0 +1,437 @@
+New PVSystem.pv_load_p1ulv44325 bus1=p1ulv44325.1.2 phases=1 kV=0.24 kVA=2.727272727272727 Pmpp=3.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_45_180
+New PVSystem.pv_load_p1ulv30426 bus1=p1ulv30426.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9946 bus1=p1ulv9946.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv37756 bus1=p1ulv37756.1.2 phases=1 kV=0.24 kVA=2.727272727272727 Pmpp=3.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_270
+New PVSystem.pv_load_p1ulv34693 bus1=p1ulv34693.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv9952 bus1=p1ulv9951.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv9874 bus1=p1ulv9873.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv13855 bus1=p1ulv13855.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_225
+New PVSystem.pv_load_p1ulv8457 bus1=p1ulv8457.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_135
+New PVSystem.pv_load_p1ulv8455 bus1=p1ulv8455.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv15713 bus1=p1ulv15713.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv25559 bus1=p1ulv25559.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_45_180
+New PVSystem.pv_load_p1ulv24060 bus1=p1ulv24060.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv8482 bus1=p1ulv8482.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv13164 bus1=p1ulv13164.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv45842 bus1=p1ulv45842.1.2.3 phases=3 kV=0.48 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv19779 bus1=p1ulv19779.1.2 phases=1 kV=0.24 kVA=2.727272727272727 Pmpp=3.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv22308 bus1=p1ulv22308.1.2 phases=1 kV=0.24 kVA=7.2727272727272725 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8648 bus1=p1ulv8648.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_270
+New PVSystem.pv_load_p1ulv22060 bus1=p1ulv22060.1.2 phases=1 kV=0.24 kVA=7.2727272727272725 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8472 bus1=p1ulv8472.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_225
+New PVSystem.pv_load_p1ulv32908 bus1=p1ulv32908.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv42290 bus1=p1ulv42290.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv45504 bus1=p1ulv45504.1.2.3 phases=3 kV=0.48 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv7997 bus1=p1ulv7997.1.2.3 phases=3 kV=0.48 kVA=7.2727272727272725 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv31700 bus1=p1ulv31700.1.2.3 phases=3 kV=0.48 kVA=272.7272727272727 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8426 bus1=p1ulv8426.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv8452 bus1=p1ulv8452.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_270
+New PVSystem.pv_load_p1ulv8468 bus1=p1ulv8467.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_45_135
+New PVSystem.pv_load_p1ulv8425 bus1=p1ulv8425.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_45_180
+New PVSystem.pv_load_p1ulv8440 bus1=p1ulv8440.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv8428 bus1=p1ulv8428.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_225
+New PVSystem.pv_load_p1ulv8451 bus1=p1ulv8451.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_35_270
+New PVSystem.pv_load_p1ulv9882 bus1=p1ulv9882.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv20303 bus1=p1ulv20303.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv8463 bus1=p1ulv8463.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_135
+New PVSystem.pv_load_p1ulv19089 bus1=p1ulv19089.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv34261 bus1=p1ulv34261.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv8487 bus1=p1ulv8487.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_270
+New PVSystem.pv_load_p1ulv8485 bus1=p1ulv8485.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_35_90
+New PVSystem.pv_load_p1ulv9965 bus1=p1ulv9965.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv24018 bus1=p1ulv24018.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv28276 bus1=p1ulv28276.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9911 bus1=p1ulv9911.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv8447 bus1=p1ulv8446.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv30985 bus1=p1ulv30985.1.2 phases=1 kV=0.24 kVA=7.2727272727272725 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8476 bus1=p1ulv8476.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv9993 bus1=p1ulv9993.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv36118 bus1=p1ulv36118.1.2 phases=1 kV=0.24 kVA=90.90909090909089 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv15664 bus1=p1ulv15664.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1umv65 bus1=p1umv65.1.2.3 phases=3 kV=12.47 kVA=272.7272727272727 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9899 bus1=p1ulv9899.1.2 phases=1 kV=0.24 kVA=4.545454545454545 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=1.0 irradiance=1 yearly=GSO_36.1090_-79.9153_45_180
+New PVSystem.pv_load_p1ulv9966 bus1=p1ulv9966.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv9900 bus1=p1ulv9900.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv7122 bus1=p1ulv7122.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_225
+New PVSystem.pv_load_p1ulv9951 bus1=p1ulv9951.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv34395 bus1=p1ulv32439.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv47297 bus1=p1ulv47297.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9873 bus1=p1ulv9873.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_225
+New PVSystem.pv_load_p1ulv9941 bus1=p1ulv9941.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv10005 bus1=p1ulv10005.1.2.3 phases=3 kV=0.48 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9902 bus1=p1ulv9902.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_45_225
+New PVSystem.pv_load_p1ulv9916 bus1=p1ulv9916.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv8445 bus1=p1ulv8445.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv8430 bus1=p1ulv8430.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv37693 bus1=p1ulv37693.1.2 phases=1 kV=0.24 kVA=2.8708133971291865 Pmpp=3.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv40696 bus1=p1ulv40696.1.2 phases=1 kV=0.24 kVA=7.655502392344497 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv18141 bus1=p1ulv18141.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_135
+New PVSystem.pv_load_p1ulv23507 bus1=p1ulv23507.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv30891 bus1=p1ulv30891.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv8653 bus1=p1ulv8653.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_270
+New PVSystem.pv_load_p1ulv9948 bus1=p1ulv9948.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8471 bus1=p1ulv8471.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9878 bus1=p1ulv9878.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9891 bus1=p1ulv9889.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_270
+New PVSystem.pv_load_p1ulv32666 bus1=p1ulv32666.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv23931 bus1=p1ulv23931.1.2 phases=1 kV=0.24 kVA=7.655502392344497 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv14766 bus1=p1ulv14766.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv30984 bus1=p1ulv30984.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv8422 bus1=p1ulv8422.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9939 bus1=p1ulv9939.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv20711 bus1=p1ulv20711.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_45_135
+New PVSystem.pv_load_p1ulv45718 bus1=p1ulv45718.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv23807 bus1=p1ulv23807.1.2.3 phases=3 kV=0.48 kVA=7.655502392344497 Pmpp=8.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv35653 bus1=p1ulv35653.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_135
+New PVSystem.pv_load_p1ulv9896 bus1=p1ulv9896.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_225
+New PVSystem.pv_load_p1ulv22352 bus1=p1ulv22352.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_225
+New PVSystem.pv_load_p1ulv13094 bus1=p1ulv13094.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_45_135
+New PVSystem.pv_load_p1ulv32200 bus1=p1ulv32200.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9994 bus1=p1ulv9994.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv9938 bus1=p1ulv9938.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv23249 bus1=p1ulv23249.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv7121 bus1=p1ulv7121.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9937 bus1=p1ulv9937.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_45_90
+New PVSystem.pv_load_p1ulv8423 bus1=p1ulv8423.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_270
+New PVSystem.pv_load_p1ulv20575 bus1=p1ulv20575.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_90
+New PVSystem.pv_load_p1ulv8427 bus1=p1ulv8427.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv9888 bus1=p1ulv9887.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_45_135
+New PVSystem.pv_load_p1ulv9934 bus1=p1ulv9934.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv16781 bus1=p1ulv16781.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv8464 bus1=p1ulv8464.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_25_225
+New PVSystem.pv_load_p1ulv9949 bus1=p1ulv9949.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv9893 bus1=p1ulv9893.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv9871 bus1=p1ulv9871.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv9991 bus1=p1ulv9991.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv44086 bus1=p1ulv44086.1.2.3 phases=3 kV=0.48 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv15155 bus1=p1ulv15155.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv8484 bus1=p1ulv8484.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_45_225
+New PVSystem.pv_load_p1ulv36882 bus1=p1ulv36882.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_225
+New PVSystem.pv_load_p1ulv9936 bus1=p1ulv9936.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv9924 bus1=p1ulv9924.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv32973 bus1=p1ulv32973.1.2.3 phases=3 kV=0.48 kVA=287.0813397129187 Pmpp=300.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9959 bus1=p1ulv9959.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv24788 bus1=p1ulv24788.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_15_135
+New PVSystem.pv_load_p1ulv31891 bus1=p1ulv31891.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv20169 bus1=p1ulv20169.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv25415 bus1=p1ulv25415.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_45_90
+New PVSystem.pv_load_p1ulv8458 bus1=p1ulv8458.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_35_135
+New PVSystem.pv_load_p1ulv8460 bus1=p1ulv8460.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_45_225
+New PVSystem.pv_load_p1ulv24923 bus1=p1ulv24923.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_25_90
+New PVSystem.pv_load_p1ulv8444 bus1=p1ulv8444.1.2 phases=1 kV=0.24 kVA=4.784688995215311 Pmpp=5.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv42814 bus1=p1ulv42814.1.2 phases=1 kV=0.24 kVA=95.69377990430621 Pmpp=100.0 %Cutout=0.1 %Cutin=0.1 Model=1 pf=-0.95 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv8473 bus1=p1ulv8472.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_225
+New PVSystem.pv_load_p1ulv8480 bus1=p1ulv8480.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_45_135
+New PVSystem.pv_load_p1ulv9954 bus1=p1ulv9954.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv8435 bus1=p1ulv8435.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_45_225
+New PVSystem.pv_load_p1ulv9957 bus1=p1ulv9956.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv35652 bus1=p1ulv35652.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_225
+New PVSystem.pv_load_p1ulv24061 bus1=p1ulv24061.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9923 bus1=p1ulv9922.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv8470 bus1=p1ulv8470.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_225
+New PVSystem.pv_load_p1ulv8454 bus1=p1ulv8454.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_45_180
+New PVSystem.pv_load_p1ulv34120 bus1=p1ulv34120.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv8483 bus1=p1ulv8482.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_45_180
+New PVSystem.pv_load_p1ulv9914 bus1=p1ulv9914.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv9910 bus1=p1ulv9910.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv27525 bus1=p1ulv27525.1.2.3 phases=3 kV=0.48 kVA=6.666666666666667 Pmpp=8.0 kvarlimit=2.933333333333334 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv9879 bus1=p1ulv9879.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv9947 bus1=p1ulv9947.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv17019 bus1=p1ulv17019.1.2 phases=1 kV=0.24 kVA=2.5 Pmpp=3.0 kvarlimit=1.1 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv7124 bus1=p1ulv7124.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_135
+New PVSystem.pv_load_p1ulv12917 bus1=p1ulv12917.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_225
+New PVSystem.pv_load_p1ulv8475 bus1=p1ulv8475.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv20712 bus1=p1ulv20712.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_135
+New PVSystem.pv_load_p1ulv8434 bus1=p1ulv8434.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9950 bus1=p1ulv9950.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv8431 bus1=p1ulv8430.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv22201 bus1=p1ulv22201.1.2 phases=1 kV=0.24 kVA=6.666666666666667 Pmpp=8.0 kvarlimit=2.933333333333334 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv37011 bus1=p1ulv37011.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_180
+New PVSystem.pv_load_p1ulv27485 bus1=p1ulv27485.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv9999 bus1=p1ulv9999.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9907 bus1=p1ulv9907.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv25414 bus1=p1ulv25414.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv8467 bus1=p1ulv8467.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_270
+New PVSystem.pv_load_p1ulv8441 bus1=p1ulv8441.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv8433 bus1=p1ulv8432.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1umv64 bus1=p1umv64.1.2.3 phases=3 kV=12.47 kVA=250.0 Pmpp=300.0 kvarlimit=110.0 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv30060 bus1=p1ulv30060.1.2.3 phases=3 kV=0.48 kVA=250.0 Pmpp=300.0 kvarlimit=110.0 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9925 bus1=p1ulv9925.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv8486 bus1=p1ulv8486.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv13165 bus1=p1ulv13165.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_45_180
+New PVSystem.pv_load_p1ulv9904 bus1=p1ulv9904.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv9928 bus1=p1ulv9928.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv8650 bus1=p1ulv8650.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_45_135
+New PVSystem.pv_load_p1ulv9889 bus1=p1ulv9889.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv8649 bus1=p1ulv8649.1.2 phases=1 kV=0.24 kVA=2.5 Pmpp=3.0 kvarlimit=1.1 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv8461 bus1=p1ulv8461.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_225
+New PVSystem.pv_load_p1ulv14767 bus1=p1ulv14767.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_270
+New PVSystem.pv_load_p1ulv8465 bus1=p1ulv8464.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9919 bus1=p1ulv9918.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv20427 bus1=p1ulv20427.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv9901 bus1=p1ulv9901.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv37362 bus1=p1ulv37362.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_135
+New PVSystem.pv_load_p1ulv24922 bus1=p1ulv24922.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv10004 bus1=p1ulv10004.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9998 bus1=p1ulv9998.1.2 phases=1 kV=0.24 kVA=2.5 Pmpp=3.0 kvarlimit=1.1 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_270
+New PVSystem.pv_load_p1ulv33652 bus1=p1ulv33652.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv25017 bus1=p1ulv25017.1.2 phases=1 kV=0.24 kVA=6.666666666666667 Pmpp=8.0 kvarlimit=2.933333333333334 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv21543 bus1=p1ulv21543.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_90
+New PVSystem.pv_load_p1ulv35917 bus1=p1ulv35917.1.2 phases=1 kV=0.24 kVA=2.5 Pmpp=3.0 kvarlimit=1.1 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv24626 bus1=p1ulv24626.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_270
+New PVSystem.pv_load_p1ulv13435 bus1=p1ulv13435.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv19826 bus1=p1ulv19826.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_90
+New PVSystem.pv_load_p1ulv9912 bus1=p1ulv9912.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_45_180
+New PVSystem.pv_load_p1ulv9963 bus1=p1ulv9963.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv9884 bus1=p1ulv9884.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9931 bus1=p1ulv9931.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv8429 bus1=p1ulv8429.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_135
+New PVSystem.pv_load_p1ulv9913 bus1=p1ulv9913.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv14918 bus1=p1ulv14918.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9920 bus1=p1ulv9920.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_180
+New PVSystem.pv_load_p1ulv9877 bus1=p1ulv9877.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv9870 bus1=p1ulv9869.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv29240 bus1=p1ulv29240.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_225
+New PVSystem.pv_load_p1ulv21703 bus1=p1ulv21703.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_90
+New PVSystem.pv_load_p1ulv28408 bus1=p1ulv28408.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_135
+New PVSystem.pv_load_p1ulv8449 bus1=p1ulv8449.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_225
+New PVSystem.pv_load_p1ulv8438 bus1=p1ulv8438.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_225
+New PVSystem.pv_load_p1ulv9894 bus1=p1ulv9894.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv20217 bus1=p1ulv20217.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_135
+New PVSystem.pv_load_p1ulv9927 bus1=p1ulv9927.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_135
+New PVSystem.pv_load_p1ulv42879 bus1=p1ulv42879.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv26972 bus1=p1ulv26972.1.2.3 phases=3 kV=0.48 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_90
+New PVSystem.pv_load_p1ulv9898 bus1=p1ulv9898.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv9962 bus1=p1ulv9962.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8437 bus1=p1ulv8436.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv9940 bus1=p1ulv9940.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv21791 bus1=p1ulv21791.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_90
+New PVSystem.pv_load_p1ulv9921 bus1=p1ulv9921.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv9906 bus1=p1ulv9906.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv33420 bus1=p1ulv33420.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_180
+New PVSystem.pv_load_p1ulv8443 bus1=p1ulv8443.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_45_180
+New PVSystem.pv_load_p1ulv9875 bus1=p1ulv9875.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+New PVSystem.pv_load_p1ulv8442 bus1=p1ulv8442.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_180
+New PVSystem.pv_load_p1ulv25819 bus1=p1ulv25819.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_270
+New PVSystem.pv_load_p1ulv22061 bus1=p1ulv22061.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_225
+New PVSystem.pv_load_p1ulv32439 bus1=p1ulv32439.1.2 phases=1 kV=0.24 kVA=2.5 Pmpp=3.0 kvarlimit=1.1 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_45_90
+New PVSystem.pv_load_p1ulv8432 bus1=p1ulv8432.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_35_180
+New PVSystem.pv_load_p1ulv9944 bus1=p1ulv9944.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_25_270
+New PVSystem.pv_load_p1ulv33714 bus1=p1ulv33714.1.2 phases=1 kV=0.24 kVA=83.33333333333334 Pmpp=100.0 kvarlimit=36.66666666666667 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv13546 bus1=p1ulv13546.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_270
+New PVSystem.pv_load_p1ulv29198 bus1=p1ulv29198.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_15_180
+New PVSystem.pv_load_p1ulv8477 bus1=p1ulv8477.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_35_135
+New PVSystem.pv_load_p1ulv34218 bus1=p1ulv34218.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.0721_-79.9153_25_225
+New PVSystem.pv_load_p1ulv9883 bus1=p1ulv9882.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_225
+New PVSystem.pv_load_p1ulv9929 bus1=p1ulv9929.1.2 phases=1 kV=0.24 kVA=4.166666666666667 Pmpp=5.0 kvarlimit=1.8333333333333335 %Cutout=0.1 %Cutin=0.1 Model=1 irradiance=1 yearly=GSO_36.1090_-79.9153_15_270
+
+New XYCurve.VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 npts=6 Yarray=(1.0,1.0,0.0,0.0,-1.0,-1.0) Xarray=(0.5,0.92,0.98,1.02,1.08,1.5)
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8470 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8470]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9913 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9913]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9884 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9884]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv37362 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv37362]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv33714 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv33714]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9912 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9912]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8650 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8650]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9931 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9931]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8429 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8429]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv26972 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv26972]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv33420 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv33420]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8432 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8432]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9940 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9940]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8486 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8486]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv25414 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv25414]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9962 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9962]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv22201 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv22201]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9898 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9898]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv42879 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv42879]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8443 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8443]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8477 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8477]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv24061 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv24061]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv7124 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv7124]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9875 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9875]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9889 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9889]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv14767 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv14767]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv17019 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv17019]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8433 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8433]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv21703 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv21703]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv29198 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv29198]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv25819 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv25819]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv27525 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv27525]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8473 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8473]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv33652 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv33652]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9928 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9928]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv32439 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv32439]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9883 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9883]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8442 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8442]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv24922 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv24922]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv19826 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv19826]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9910 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9910]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8483 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8483]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8475 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8475]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv20712 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv20712]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9925 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9925]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv14918 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv14918]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv21791 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv21791]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv12917 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv12917]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv34120 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv34120]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8435 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8435]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9921 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9921]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9870 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9870]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv13435 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv13435]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9944 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9944]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9954 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9954]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv13165 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv13165]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv20217 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv20217]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8449 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8449]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9950 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9950]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8454 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8454]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv10004 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv10004]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9879 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9879]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv22061 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv22061]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv13546 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv13546]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9914 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9914]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv35652 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv35652]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9919 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9919]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9894 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9894]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9947 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9947]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9904 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9904]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv37011 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv37011]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9998 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9998]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9877 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9877]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9929 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9929]
+
+New InvControl.InvPVCtrVV_pv_load_p1umv64 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1umv64]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv34218 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv34218]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8438 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8438]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv21543 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv21543]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9957 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9957]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8431 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8431]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9927 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9927]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv24626 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv24626]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv25017 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv25017]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9907 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9907]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9901 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9901]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv30060 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv30060]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9906 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9906]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9923 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9923]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8434 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8434]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv20427 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv20427]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9963 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9963]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv35917 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv35917]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8467 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8467]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8649 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8649]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8437 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8437]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9920 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9920]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv29240 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv29240]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8465 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8465]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8441 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8441]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8480 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8480]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv9999 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv9999]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv27485 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv27485]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv8461 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv8461]
+
+New InvControl.InvPVCtrVV_pv_load_p1ulv28408 mode=VOLTVAR voltage_curvex_ref=rated vvc_curve1=VoltVarCurve_uhs9_1247_uhs9_1247--udt16813 VV_RefReactivePower=VARMAX_VARS DeltaQ_factor = 0.25 DeltaP_factor=0.25 PVSystemlist=[pv_load_p1ulv28408]
+

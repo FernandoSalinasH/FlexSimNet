@@ -1,0 +1,674 @@
+New Monitor.PQ_sending_l115 Line.l115 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l115 Line.l115 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l115 Line.l115 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l115 Line.l115 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l115 Line.l115 Mode=9 
+New Monitor.PQ_sending_l1 Line.l1 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l1 Line.l1 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l1 Line.l1 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l1 Line.l1 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l1 Line.l1 Mode=9 
+New Monitor.PQ_sending_l2 Line.l2 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l2 Line.l2 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l2 Line.l2 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l2 Line.l2 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l2 Line.l2 Mode=9 
+New Monitor.PQ_sending_l3 Line.l3 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l3 Line.l3 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l3 Line.l3 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l3 Line.l3 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l3 Line.l3 Mode=9 
+New Monitor.PQ_sending_l4 Line.l4 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l4 Line.l4 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l4 Line.l4 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l4 Line.l4 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l4 Line.l4 Mode=9 
+New Monitor.PQ_sending_l5 Line.l5 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l5 Line.l5 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l5 Line.l5 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l5 Line.l5 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l5 Line.l5 Mode=9 
+New Monitor.PQ_sending_l6 Line.l6 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l6 Line.l6 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l6 Line.l6 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l6 Line.l6 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l6 Line.l6 Mode=9 
+New Monitor.PQ_sending_l7 Line.l7 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l7 Line.l7 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l7 Line.l7 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l7 Line.l7 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l7 Line.l7 Mode=9 
+New Monitor.PQ_sending_l8 Line.l8 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l8 Line.l8 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l8 Line.l8 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l8 Line.l8 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l8 Line.l8 Mode=9 
+New Monitor.PQ_sending_l9 Line.l9 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l9 Line.l9 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l9 Line.l9 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l9 Line.l9 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l9 Line.l9 Mode=9 
+New Monitor.PQ_sending_l10 Line.l10 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l10 Line.l10 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l10 Line.l10 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l10 Line.l10 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l10 Line.l10 Mode=9 
+New Monitor.PQ_sending_l11 Line.l11 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l11 Line.l11 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l11 Line.l11 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l11 Line.l11 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l11 Line.l11 Mode=9 
+New Monitor.PQ_sending_l12 Line.l12 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l12 Line.l12 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l12 Line.l12 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l12 Line.l12 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l12 Line.l12 Mode=9 
+New Monitor.PQ_sending_l13 Line.l13 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l13 Line.l13 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l13 Line.l13 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l13 Line.l13 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l13 Line.l13 Mode=9 
+New Monitor.PQ_sending_l14 Line.l14 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l14 Line.l14 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l14 Line.l14 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l14 Line.l14 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l14 Line.l14 Mode=9 
+New Monitor.PQ_sending_l15 Line.l15 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l15 Line.l15 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l15 Line.l15 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l15 Line.l15 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l15 Line.l15 Mode=9 
+New Monitor.PQ_sending_l16 Line.l16 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l16 Line.l16 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l16 Line.l16 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l16 Line.l16 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l16 Line.l16 Mode=9 
+New Monitor.PQ_sending_l17 Line.l17 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l17 Line.l17 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l17 Line.l17 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l17 Line.l17 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l17 Line.l17 Mode=9 
+New Monitor.PQ_sending_l18 Line.l18 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l18 Line.l18 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l18 Line.l18 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l18 Line.l18 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l18 Line.l18 Mode=9 
+New Monitor.PQ_sending_l19 Line.l19 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l19 Line.l19 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l19 Line.l19 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l19 Line.l19 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l19 Line.l19 Mode=9 
+New Monitor.PQ_sending_l20 Line.l20 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l20 Line.l20 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l20 Line.l20 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l20 Line.l20 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l20 Line.l20 Mode=9 
+New Monitor.PQ_sending_l21 Line.l21 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l21 Line.l21 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l21 Line.l21 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l21 Line.l21 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l21 Line.l21 Mode=9 
+New Monitor.PQ_sending_l22 Line.l22 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l22 Line.l22 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l22 Line.l22 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l22 Line.l22 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l22 Line.l22 Mode=9 
+New Monitor.PQ_sending_l23 Line.l23 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l23 Line.l23 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l23 Line.l23 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l23 Line.l23 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l23 Line.l23 Mode=9 
+New Monitor.PQ_sending_l24 Line.l24 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l24 Line.l24 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l24 Line.l24 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l24 Line.l24 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l24 Line.l24 Mode=9 
+New Monitor.PQ_sending_l25 Line.l25 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l25 Line.l25 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l25 Line.l25 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l25 Line.l25 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l25 Line.l25 Mode=9 
+New Monitor.PQ_sending_l26 Line.l26 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l26 Line.l26 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l26 Line.l26 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l26 Line.l26 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l26 Line.l26 Mode=9 
+New Monitor.PQ_sending_l27 Line.l27 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l27 Line.l27 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l27 Line.l27 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l27 Line.l27 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l27 Line.l27 Mode=9 
+New Monitor.PQ_sending_l28 Line.l28 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l28 Line.l28 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l28 Line.l28 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l28 Line.l28 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l28 Line.l28 Mode=9 
+New Monitor.PQ_sending_l29 Line.l29 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l29 Line.l29 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l29 Line.l29 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l29 Line.l29 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l29 Line.l29 Mode=9 
+New Monitor.PQ_sending_l30 Line.l30 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l30 Line.l30 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l30 Line.l30 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l30 Line.l30 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l30 Line.l30 Mode=9 
+New Monitor.PQ_sending_l31 Line.l31 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l31 Line.l31 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l31 Line.l31 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l31 Line.l31 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l31 Line.l31 Mode=9 
+New Monitor.PQ_sending_l32 Line.l32 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l32 Line.l32 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l32 Line.l32 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l32 Line.l32 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l32 Line.l32 Mode=9 
+New Monitor.PQ_sending_l33 Line.l33 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l33 Line.l33 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l33 Line.l33 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l33 Line.l33 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l33 Line.l33 Mode=9 
+New Monitor.PQ_sending_l34 Line.l34 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l34 Line.l34 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l34 Line.l34 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l34 Line.l34 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l34 Line.l34 Mode=9 
+New Monitor.PQ_sending_l35 Line.l35 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l35 Line.l35 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l35 Line.l35 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l35 Line.l35 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l35 Line.l35 Mode=9 
+New Monitor.PQ_sending_l36 Line.l36 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l36 Line.l36 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l36 Line.l36 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l36 Line.l36 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l36 Line.l36 Mode=9 
+New Monitor.PQ_sending_l37 Line.l37 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l37 Line.l37 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l37 Line.l37 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l37 Line.l37 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l37 Line.l37 Mode=9 
+New Monitor.PQ_sending_l38 Line.l38 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l38 Line.l38 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l38 Line.l38 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l38 Line.l38 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l38 Line.l38 Mode=9 
+New Monitor.PQ_sending_l39 Line.l39 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l39 Line.l39 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l39 Line.l39 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l39 Line.l39 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l39 Line.l39 Mode=9 
+New Monitor.PQ_sending_l40 Line.l40 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l40 Line.l40 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l40 Line.l40 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l40 Line.l40 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l40 Line.l40 Mode=9 
+New Monitor.PQ_sending_l41 Line.l41 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l41 Line.l41 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l41 Line.l41 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l41 Line.l41 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l41 Line.l41 Mode=9 
+New Monitor.PQ_sending_l42 Line.l42 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l42 Line.l42 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l42 Line.l42 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l42 Line.l42 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l42 Line.l42 Mode=9 
+New Monitor.PQ_sending_l43 Line.l43 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l43 Line.l43 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l43 Line.l43 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l43 Line.l43 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l43 Line.l43 Mode=9 
+New Monitor.PQ_sending_l44 Line.l44 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l44 Line.l44 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l44 Line.l44 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l44 Line.l44 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l44 Line.l44 Mode=9 
+New Monitor.PQ_sending_l45 Line.l45 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l45 Line.l45 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l45 Line.l45 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l45 Line.l45 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l45 Line.l45 Mode=9 
+New Monitor.PQ_sending_l46 Line.l46 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l46 Line.l46 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l46 Line.l46 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l46 Line.l46 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l46 Line.l46 Mode=9 
+New Monitor.PQ_sending_l47 Line.l47 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l47 Line.l47 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l47 Line.l47 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l47 Line.l47 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l47 Line.l47 Mode=9 
+New Monitor.PQ_sending_l48 Line.l48 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l48 Line.l48 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l48 Line.l48 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l48 Line.l48 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l48 Line.l48 Mode=9 
+New Monitor.PQ_sending_l49 Line.l49 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l49 Line.l49 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l49 Line.l49 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l49 Line.l49 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l49 Line.l49 Mode=9 
+New Monitor.PQ_sending_l50 Line.l50 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l50 Line.l50 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l50 Line.l50 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l50 Line.l50 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l50 Line.l50 Mode=9 
+New Monitor.PQ_sending_l51 Line.l51 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l51 Line.l51 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l51 Line.l51 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l51 Line.l51 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l51 Line.l51 Mode=9 
+New Monitor.PQ_sending_l52 Line.l52 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l52 Line.l52 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l52 Line.l52 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l52 Line.l52 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l52 Line.l52 Mode=9 
+New Monitor.PQ_sending_l53 Line.l53 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l53 Line.l53 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l53 Line.l53 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l53 Line.l53 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l53 Line.l53 Mode=9 
+New Monitor.PQ_sending_l54 Line.l54 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l54 Line.l54 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l54 Line.l54 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l54 Line.l54 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l54 Line.l54 Mode=9 
+New Monitor.PQ_sending_l55 Line.l55 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l55 Line.l55 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l55 Line.l55 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l55 Line.l55 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l55 Line.l55 Mode=9 
+New Monitor.PQ_sending_l56 Line.l56 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l56 Line.l56 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l56 Line.l56 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l56 Line.l56 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l56 Line.l56 Mode=9 
+New Monitor.PQ_sending_l57 Line.l57 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l57 Line.l57 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l57 Line.l57 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l57 Line.l57 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l57 Line.l57 Mode=9 
+New Monitor.PQ_sending_l58 Line.l58 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l58 Line.l58 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l58 Line.l58 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l58 Line.l58 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l58 Line.l58 Mode=9 
+New Monitor.PQ_sending_l59 Line.l59 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l59 Line.l59 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l59 Line.l59 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l59 Line.l59 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l59 Line.l59 Mode=9 
+New Monitor.PQ_sending_l60 Line.l60 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l60 Line.l60 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l60 Line.l60 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l60 Line.l60 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l60 Line.l60 Mode=9 
+New Monitor.PQ_sending_l61 Line.l61 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l61 Line.l61 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l61 Line.l61 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l61 Line.l61 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l61 Line.l61 Mode=9 
+New Monitor.PQ_sending_l62 Line.l62 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l62 Line.l62 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l62 Line.l62 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l62 Line.l62 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l62 Line.l62 Mode=9 
+New Monitor.PQ_sending_l63 Line.l63 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l63 Line.l63 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l63 Line.l63 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l63 Line.l63 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l63 Line.l63 Mode=9 
+New Monitor.PQ_sending_l64 Line.l64 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l64 Line.l64 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l64 Line.l64 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l64 Line.l64 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l64 Line.l64 Mode=9 
+New Monitor.PQ_sending_l65 Line.l65 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l65 Line.l65 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l65 Line.l65 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l65 Line.l65 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l65 Line.l65 Mode=9 
+New Monitor.PQ_sending_l66 Line.l66 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l66 Line.l66 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l66 Line.l66 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l66 Line.l66 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l66 Line.l66 Mode=9 
+New Monitor.PQ_sending_l67 Line.l67 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l67 Line.l67 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l67 Line.l67 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l67 Line.l67 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l67 Line.l67 Mode=9 
+New Monitor.PQ_sending_l68 Line.l68 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l68 Line.l68 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l68 Line.l68 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l68 Line.l68 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l68 Line.l68 Mode=9 
+New Monitor.PQ_sending_l69 Line.l69 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l69 Line.l69 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l69 Line.l69 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l69 Line.l69 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l69 Line.l69 Mode=9 
+New Monitor.PQ_sending_l70 Line.l70 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l70 Line.l70 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l70 Line.l70 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l70 Line.l70 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l70 Line.l70 Mode=9 
+New Monitor.PQ_sending_l71 Line.l71 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l71 Line.l71 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l71 Line.l71 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l71 Line.l71 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l71 Line.l71 Mode=9 
+New Monitor.PQ_sending_l72 Line.l72 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l72 Line.l72 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l72 Line.l72 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l72 Line.l72 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l72 Line.l72 Mode=9 
+New Monitor.PQ_sending_l73 Line.l73 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l73 Line.l73 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l73 Line.l73 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l73 Line.l73 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l73 Line.l73 Mode=9 
+New Monitor.PQ_sending_l74 Line.l74 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l74 Line.l74 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l74 Line.l74 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l74 Line.l74 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l74 Line.l74 Mode=9 
+New Monitor.PQ_sending_l75 Line.l75 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l75 Line.l75 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l75 Line.l75 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l75 Line.l75 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l75 Line.l75 Mode=9 
+New Monitor.PQ_sending_l76 Line.l76 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l76 Line.l76 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l76 Line.l76 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l76 Line.l76 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l76 Line.l76 Mode=9 
+New Monitor.PQ_sending_l77 Line.l77 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l77 Line.l77 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l77 Line.l77 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l77 Line.l77 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l77 Line.l77 Mode=9 
+New Monitor.PQ_sending_l78 Line.l78 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l78 Line.l78 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l78 Line.l78 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l78 Line.l78 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l78 Line.l78 Mode=9 
+New Monitor.PQ_sending_l79 Line.l79 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l79 Line.l79 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l79 Line.l79 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l79 Line.l79 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l79 Line.l79 Mode=9 
+New Monitor.PQ_sending_l80 Line.l80 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l80 Line.l80 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l80 Line.l80 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l80 Line.l80 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l80 Line.l80 Mode=9 
+New Monitor.PQ_sending_l81 Line.l81 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l81 Line.l81 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l81 Line.l81 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l81 Line.l81 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l81 Line.l81 Mode=9 
+New Monitor.PQ_sending_l82 Line.l82 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l82 Line.l82 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l82 Line.l82 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l82 Line.l82 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l82 Line.l82 Mode=9 
+New Monitor.PQ_sending_l83 Line.l83 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l83 Line.l83 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l83 Line.l83 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l83 Line.l83 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l83 Line.l83 Mode=9 
+New Monitor.PQ_sending_l84 Line.l84 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l84 Line.l84 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l84 Line.l84 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l84 Line.l84 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l84 Line.l84 Mode=9 
+New Monitor.PQ_sending_l85 Line.l85 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l85 Line.l85 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l85 Line.l85 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l85 Line.l85 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l85 Line.l85 Mode=9 
+New Monitor.PQ_sending_l86 Line.l86 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l86 Line.l86 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l86 Line.l86 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l86 Line.l86 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l86 Line.l86 Mode=9 
+New Monitor.PQ_sending_l87 Line.l87 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l87 Line.l87 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l87 Line.l87 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l87 Line.l87 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l87 Line.l87 Mode=9 
+New Monitor.PQ_sending_l88 Line.l88 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l88 Line.l88 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l88 Line.l88 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l88 Line.l88 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l88 Line.l88 Mode=9 
+New Monitor.PQ_sending_l89 Line.l89 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l89 Line.l89 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l89 Line.l89 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l89 Line.l89 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l89 Line.l89 Mode=9 
+New Monitor.PQ_sending_l90 Line.l90 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l90 Line.l90 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l90 Line.l90 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l90 Line.l90 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l90 Line.l90 Mode=9 
+New Monitor.PQ_sending_l91 Line.l91 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l91 Line.l91 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l91 Line.l91 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l91 Line.l91 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l91 Line.l91 Mode=9 
+New Monitor.PQ_sending_l92 Line.l92 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l92 Line.l92 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l92 Line.l92 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l92 Line.l92 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l92 Line.l92 Mode=9 
+New Monitor.PQ_sending_l93 Line.l93 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l93 Line.l93 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l93 Line.l93 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l93 Line.l93 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l93 Line.l93 Mode=9 
+New Monitor.PQ_sending_l94 Line.l94 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l94 Line.l94 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l94 Line.l94 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l94 Line.l94 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l94 Line.l94 Mode=9 
+New Monitor.PQ_sending_l95 Line.l95 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l95 Line.l95 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l95 Line.l95 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l95 Line.l95 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l95 Line.l95 Mode=9 
+New Monitor.PQ_sending_l96 Line.l96 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l96 Line.l96 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l96 Line.l96 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l96 Line.l96 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l96 Line.l96 Mode=9 
+New Monitor.PQ_sending_l97 Line.l97 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l97 Line.l97 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l97 Line.l97 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l97 Line.l97 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l97 Line.l97 Mode=9 
+New Monitor.PQ_sending_l98 Line.l98 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l98 Line.l98 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l98 Line.l98 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l98 Line.l98 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l98 Line.l98 Mode=9 
+New Monitor.PQ_sending_l99 Line.l99 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l99 Line.l99 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l99 Line.l99 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l99 Line.l99 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l99 Line.l99 Mode=9 
+New Monitor.PQ_sending_l118 Line.l118 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l118 Line.l118 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l118 Line.l118 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l118 Line.l118 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l118 Line.l118 Mode=9 
+New Monitor.PQ_sending_l100 Line.l100 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l100 Line.l100 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l100 Line.l100 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l100 Line.l100 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l100 Line.l100 Mode=9 
+New Monitor.PQ_sending_l101 Line.l101 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l101 Line.l101 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l101 Line.l101 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l101 Line.l101 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l101 Line.l101 Mode=9 
+New Monitor.PQ_sending_l102 Line.l102 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l102 Line.l102 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l102 Line.l102 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l102 Line.l102 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l102 Line.l102 Mode=9 
+New Monitor.PQ_sending_l103 Line.l103 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l103 Line.l103 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l103 Line.l103 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l103 Line.l103 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l103 Line.l103 Mode=9 
+New Monitor.PQ_sending_l104 Line.l104 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l104 Line.l104 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l104 Line.l104 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l104 Line.l104 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l104 Line.l104 Mode=9 
+New Monitor.PQ_sending_l105 Line.l105 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l105 Line.l105 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l105 Line.l105 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l105 Line.l105 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l105 Line.l105 Mode=9 
+New Monitor.PQ_sending_l106 Line.l106 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l106 Line.l106 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l106 Line.l106 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l106 Line.l106 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l106 Line.l106 Mode=9 
+New Monitor.PQ_sending_l107 Line.l107 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l107 Line.l107 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l107 Line.l107 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l107 Line.l107 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l107 Line.l107 Mode=9 
+New Monitor.PQ_sending_l108 Line.l108 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l108 Line.l108 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l108 Line.l108 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l108 Line.l108 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l108 Line.l108 Mode=9 
+New Monitor.PQ_sending_l109 Line.l109 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l109 Line.l109 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l109 Line.l109 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l109 Line.l109 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l109 Line.l109 Mode=9 
+New Monitor.PQ_sending_l110 Line.l110 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l110 Line.l110 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l110 Line.l110 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l110 Line.l110 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l110 Line.l110 Mode=9 
+New Monitor.PQ_sending_l111 Line.l111 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l111 Line.l111 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l111 Line.l111 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l111 Line.l111 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l111 Line.l111 Mode=9 
+New Monitor.PQ_sending_l112 Line.l112 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l112 Line.l112 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l112 Line.l112 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l112 Line.l112 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l112 Line.l112 Mode=9 
+New Monitor.PQ_sending_l113 Line.l113 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l113 Line.l113 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l113 Line.l113 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l113 Line.l113 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l113 Line.l113 Mode=9 
+New Monitor.PQ_sending_l114 Line.l114 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l114 Line.l114 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l114 Line.l114 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l114 Line.l114 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l114 Line.l114 Mode=9 
+New Monitor.PQ_sending_l116 Line.l116 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l116 Line.l116 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l116 Line.l116 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l116 Line.l116 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l116 Line.l116 Mode=9 
+New Monitor.PQ_sending_l117 Line.l117 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_l117 Line.l117 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_l117 Line.l117 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_l117 Line.l117 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_l117 Line.l117 Mode=9 
+New Monitor.PQ_sending_sw1 Line.sw1 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw1 Line.sw1 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw1 Line.sw1 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw1 Line.sw1 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw1 Line.sw1 Mode=9 
+New Monitor.PQ_sending_sw2 Line.sw2 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw2 Line.sw2 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw2 Line.sw2 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw2 Line.sw2 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw2 Line.sw2 Mode=9 
+New Monitor.PQ_sending_sw3 Line.sw3 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw3 Line.sw3 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw3 Line.sw3 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw3 Line.sw3 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw3 Line.sw3 Mode=9 
+New Monitor.PQ_sending_sw4 Line.sw4 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw4 Line.sw4 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw4 Line.sw4 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw4 Line.sw4 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw4 Line.sw4 Mode=9 
+New Monitor.PQ_sending_sw5 Line.sw5 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw5 Line.sw5 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw5 Line.sw5 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw5 Line.sw5 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw5 Line.sw5 Mode=9 
+New Monitor.PQ_sending_sw6 Line.sw6 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw6 Line.sw6 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw6 Line.sw6 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw6 Line.sw6 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw6 Line.sw6 Mode=9 
+New Monitor.PQ_sending_sw7 Line.sw7 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw7 Line.sw7 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw7 Line.sw7 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw7 Line.sw7 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw7 Line.sw7 Mode=9 
+New Monitor.PQ_sending_sw8 Line.sw8 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_sw8 Line.sw8 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_sw8 Line.sw8 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_sw8 Line.sw8 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_sw8 Line.sw8 Mode=9 
+New Monitor.PQ_sending_reg1a Transformer.reg1a Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg1a Transformer.reg1a Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg1a Transformer.reg1a Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg1a Transformer.reg1a Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg1a Transformer.reg1a Mode=9 
+New Monitor.PQ_sending_xfm1 Transformer.xfm1 Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_xfm1 Transformer.xfm1 Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_xfm1 Transformer.xfm1 Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_xfm1 Transformer.xfm1 Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_xfm1 Transformer.xfm1 Mode=9 
+New Monitor.PQ_sending_reg2a Transformer.reg2a Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg2a Transformer.reg2a Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg2a Transformer.reg2a Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg2a Transformer.reg2a Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg2a Transformer.reg2a Mode=9 
+New Monitor.PQ_sending_reg3a Transformer.reg3a Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg3a Transformer.reg3a Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg3a Transformer.reg3a Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg3a Transformer.reg3a Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg3a Transformer.reg3a Mode=9 
+New Monitor.PQ_sending_reg4a Transformer.reg4a Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg4a Transformer.reg4a Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg4a Transformer.reg4a Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg4a Transformer.reg4a Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg4a Transformer.reg4a Mode=9 
+New Monitor.PQ_sending_reg3c Transformer.reg3c Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg3c Transformer.reg3c Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg3c Transformer.reg3c Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg3c Transformer.reg3c Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg3c Transformer.reg3c Mode=9 
+New Monitor.PQ_sending_reg4b Transformer.reg4b Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg4b Transformer.reg4b Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg4b Transformer.reg4b Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg4b Transformer.reg4b Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg4b Transformer.reg4b Mode=9 
+New Monitor.PQ_sending_reg4c Transformer.reg4c Terminal=1 Mode=1 ppolar=no
+New Monitor.PQ_receiving_reg4c Transformer.reg4c Terminal=2 Mode=1 ppolar=no
+New Monitor.VI_sending_reg4c Transformer.reg4c Terminal=1 Mode=0 VIpolar=yes
+New Monitor.VI_receiving_reg4c Transformer.reg4c Terminal=2 Mode=0 VIpolar=yes
+New Monitor.Losses_reg4c Transformer.reg4c Mode=9 
+New Monitor.Losses_c83 Capacitor.c83 Mode=9 
+New Monitor.Losses_c88a Capacitor.c88a Mode=9 
+New Monitor.Losses_c90b Capacitor.c90b Mode=9 
+New Monitor.Losses_c92c Capacitor.c92c Mode=9 

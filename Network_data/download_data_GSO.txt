@@ -1,0 +1,8 @@
+repository:
+https://data.openei.org/s3_viewer?bucket=oedi-data-lake&prefix=SMART-DS%2Fv1.0%2F
+
+At CMD enter:
+aws s3 cp s3://oedi-data-lakeSMART-DSv1.02018GSOurban-suburbanscenariossolar_high_batteries_high_timeseries/opendss/ ./fernandodata --recursive --no-sign-request
+
+first path is link to data,
+second path is folder to store data in C:User/ferna

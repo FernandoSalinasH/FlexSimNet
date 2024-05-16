@@ -1,0 +1,24 @@
+Loading (p.u.),Name,Bus and Phases,kVA,Number of Phases
+1.0088206927790846,Transformer.tr(r:udt8948-udt8948lv),udt8948,75.0,3
+1.0390406710311557,Transformer.tr(r:udt9897-udt9897lv),udt9897,75.0,3
+1.133263575540668,Transformer.tr(r:udt7861-udt7861lv),udt7861.3,75.0,1
+1.2035583672544148,Transformer.tr(r:udt2835-udt2835lv),udt2835.3,75.0,1
+1.2448432851264655,Transformer.tr(r:udt13604-udt13604lv),udt13604,150.0,3
+1.3260516579286206,Transformer.tr(r:udt4886-udt4886lv),udt4886.2,50.0,1
+1.3500859143734554,Transformer.tr(r:udt14069-udt14069lv),udt14069.1,50.0,1
+1.4484164971473068,Transformer.tr(r:udt7353-udt7353lv),udt7353.3,50.0,1
+1.5763950920703373,Transformer.tr(r:udt6787-udt6787lv),udt6787.1,50.0,1
+1.6035486988445633,Transformer.tr(r:udt7883-udt7883lv),udt7883.2,50.0,1
+1.810920960808841,Transformer.tr(r:udt2839-udt2839lv),udt2839.3,50.0,1
+2.1537744547262854,Transformer.tr(r:udt9749-udt9749lv),udt9749,100.0,3
+2.4656565822498555,Transformer.tr(r:udt3344-udt3344lv),udt3344,100.0,3
+2.777769558225094,Transformer.tr(r:udt7880-udt7880lv),udt7880.1,75.0,1
+2.828293542845981,Transformer.tr(r:udt9927-udt9927lv),udt9927.1,25.0,1
+2.8937533655486503,Transformer.tr(r:udt7881-udt7881lv),udt7881.2,75.0,1
+2.8989160262812717,Transformer.tr(r:udt3343-udt3343lv),udt3343.2,50.0,1
+3.2031619642844174,Transformer.tr(r:udt9947-udt9947lv),udt9947.1,25.0,1
+3.2670677208058825,Transformer.tr(r:udt7878-udt7878lv),udt7878.3,25.0,1
+3.4547490242356473,Transformer.tr(r:udt9540-udt9540lv),udt9540.2,25.0,1
+4.02971016110128,Transformer.tr(r:udt7882-udt7882lv),udt7882.1,75.0,1
+5.991405234246861,Transformer.tr(r:udt8753-udt8753lv),udt8753.3,25.0,1
+6.304102164848035,Transformer.tr(r:udt7879-udt7879lv),udt7879.1,50.0,1

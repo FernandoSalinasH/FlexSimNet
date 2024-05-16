@@ -1,0 +1,61 @@
+Clear
+
+New Circuit.substation_uhs9_69 bus1=uhs9_69 pu=1.0 basekV=69.0 R1=1e-05 X1=1e-05 R0=1e-05 X0=1e-05
+
+Redirect LineCodes.dss
+Redirect uhs9_1247--udt11456/LineCodes.dss
+Redirect uhs9_1247--udt13714/LineCodes.dss
+Redirect uhs9_1247--udt14110/LineCodes.dss
+Redirect uhs9_1247--udt16813/LineCodes.dss
+Redirect uhs9_1247--udt2508/LineCodes.dss
+Redirect Lines.dss
+Redirect uhs9_1247--udt11456/Lines.dss
+Redirect uhs9_1247--udt13714/Lines.dss
+Redirect uhs9_1247--udt14110/Lines.dss
+Redirect uhs9_1247--udt16813/Lines.dss
+Redirect uhs9_1247--udt2508/Lines.dss
+Redirect Transformers.dss
+Redirect uhs9_1247--udt11456/Transformers.dss
+Redirect uhs9_1247--udt13714/Transformers.dss
+Redirect uhs9_1247--udt14110/Transformers.dss
+Redirect uhs9_1247--udt16813/Transformers.dss
+Redirect uhs9_1247--udt2508/Transformers.dss
+Redirect Regulators.dss
+Redirect LoadShapes.dss
+Redirect uhs9_1247--udt11456/Loads.dss
+Redirect uhs9_1247--udt13714/Loads.dss
+Redirect uhs9_1247--udt14110/Loads.dss
+Redirect uhs9_1247--udt16813/Loads.dss
+Redirect uhs9_1247--udt2508/Loads.dss
+Redirect uhs9_1247--udt13714/Capacitors.dss
+Redirect uhs9_1247--udt14110/Capacitors.dss
+Redirect uhs9_1247--udt16813/Capacitors.dss
+Redirect uhs9_1247--udt2508/Capacitors.dss
+Redirect Storage.dss
+Redirect uhs9_1247--udt11456/Storage.dss
+Redirect uhs9_1247--udt13714/Storage.dss
+Redirect uhs9_1247--udt14110/Storage.dss
+Redirect uhs9_1247--udt16813/Storage.dss
+Redirect uhs9_1247--udt2508/Storage.dss
+Redirect uhs9_1247--udt11456/PVSystems.dss
+Redirect uhs9_1247--udt13714/PVSystems.dss
+Redirect uhs9_1247--udt14110/PVSystems.dss
+Redirect uhs9_1247--udt16813/PVSystems.dss
+Redirect uhs9_1247--udt2508/PVSystems.dss
+new monitor.m1 element=Line.sb9_uhs9_1247_407 mode=0
+new monitor.m2 element=Line.sb9_uhs9_1247_407 mode=1
+new energymeter.m3 Line.sb9_uhs9_1247_407
+
+Set Voltagebases=[0.12, 0.208, 0.24, 0.48, 7.2, 12.47, 69.0]
+
+Calcvoltagebases
+
+Buscoords Buscoords.dss
+set maxcontroliter=50
+
+Solve mode=yearly stepsize=15m number=35040
+Export monitors m1
+Plot monitor object= m1 channels=(7 9 11 )
+Export monitors m2
+Plot monitor object= m2 channels=(1 3 5 )
+Plot Profile Phases=All

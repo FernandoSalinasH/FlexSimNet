@@ -1,0 +1,186 @@
+2023-11-27 10:53:29,178 - [__main__][INFO] 
+[Starting building energy modelling tool[0m
+2023-11-27 10:53:30,684 - [__main__][INFO] Time to build simulation for 0 building = 1.505 seconds
+2023-11-27 10:53:33,157 - [__main__][INFO] Time to simulate 0 building for 24 hours = 2.472 seconds
+2023-11-27 10:53:33,162 - [__main__][INFO] Time to get results = 0.006 seconds 
+2023-11-27 10:53:33,162 - [__main__][INFO] Finished!
+2023-11-27 10:53:33,169 - [__main__][INFO] Total time for bulding_EM = 3.990 seconds
+2023-11-27 10:54:58,531 - [__main__][INFO] 
+[Starting building energy modelling tool[0m
+2023-11-27 10:54:59,974 - [__main__][INFO] Time to build simulation for 0 building = 1.443 seconds
+2023-11-27 10:55:02,445 - [__main__][INFO] Time to simulate 0 building for 24 hours = 2.471 seconds
+2023-11-27 10:55:02,452 - [__main__][INFO] Time to get results = 0.004 seconds 
+2023-11-27 10:55:02,453 - [__main__][INFO] Finished!
+2023-11-27 10:55:02,453 - [__main__][INFO] Total time for bulding_EM = 3.922 seconds
+2023-11-27 10:56:03,905 - [__main__][INFO] [Starting building energy modelling tool[0m
+2023-11-27 10:56:05,323 - [__main__][INFO] Time to build simulation for 1 building = 1.416 seconds
+2023-11-27 10:56:07,676 - [__main__][INFO] Time to simulate 24 hours = 2.349 seconds
+2023-11-27 10:56:07,682 - [__main__][INFO] Time to get results = 0.003 seconds 
+2023-11-27 10:56:07,684 - [__main__][INFO] Finished!
+2023-11-27 10:56:07,686 - [__main__][INFO] Total time for bulding_EM = 3.779 seconds
+2023-11-27 10:57:09,707 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 10:57:11,157 - [__main__][INFO] Time to build simulation for 1 building = 1.449 seconds
+2023-11-27 10:57:13,508 - [__main__][INFO] Time to simulate 24 hours = 2.350 seconds
+2023-11-27 10:57:13,517 - [__main__][INFO] Time to get results = 0.004 seconds 
+2023-11-27 10:57:13,517 - [__main__][INFO] Finished!
+2023-11-27 10:57:13,517 - [__main__][INFO] Total time for bulding_EM tool= 3.810 seconds
+2023-11-27 10:57:42,817 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 10:57:44,312 - [__main__][INFO] Time to build simulation for 1 building = 1.495 seconds
+2023-11-27 10:57:46,652 - [__main__][INFO] Time to simulate 24 hours = 2.340 seconds
+2023-11-27 10:57:46,657 - [__main__][INFO] Time to get results = 0.005 seconds 
+2023-11-27 10:57:46,657 - [__main__][INFO] Finished!
+2023-11-27 10:57:46,657 - [__main__][INFO] Total time for bulding_EM tool= 3.840 seconds
+2023-11-27 10:58:30,888 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 10:58:32,337 - [__main__][INFO] Time to build simulation for 1 building = 1.448 seconds
+2023-11-27 10:58:34,739 - [__main__][INFO] Time to simulate 24 hours = 2.401 seconds
+2023-11-27 10:58:34,747 - [__main__][INFO] Time to get results = 0.006 seconds 
+2023-11-27 10:58:34,749 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.860 seconds
+2023-11-27 10:58:34,750 - [__main__][INFO] Finished!
+2023-11-27 10:58:52,998 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 10:58:54,503 - [__main__][INFO] Time to build simulation for 1 building = 1.506 seconds
+2023-11-27 10:58:56,900 - [__main__][INFO] Time to simulate 24 hours = 2.397 seconds
+2023-11-27 10:58:56,906 - [__main__][INFO] Time to get results = 0.006 seconds 
+2023-11-27 10:58:56,907 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.910 seconds
+2023-11-27 10:58:56,908 - [__main__][INFO] Finished!
+2023-11-27 10:59:47,325 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 10:59:48,800 - [__main__][INFO] Time to build simulation for 1 building = 1.474 seconds
+2023-11-27 10:59:51,160 - [__main__][INFO] Time to simulate 24 hours = 2.361 seconds
+2023-11-27 10:59:51,167 - [__main__][INFO] Time to get results = 0.000 seconds 
+2023-11-27 10:59:51,167 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.842 seconds
+2023-11-27 10:59:51,167 - [__main__][INFO] Finished!
+2023-11-27 12:26:13,507 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:26:14,803 - [__main__][INFO] Time to build simulation for 1 building = 1.294 seconds
+2023-11-27 12:27:06,750 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:27:08,260 - [__main__][INFO] Time to build simulation for 1 building = 1.508 seconds
+2023-11-27 12:29:41,754 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:29:43,259 - [__main__][INFO] Time to build simulation for 1 building = 1.505 seconds
+2023-11-27 12:30:24,653 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:30:25,973 - [__main__][INFO] Time to build simulation for 1 building = 1.320 seconds
+2023-11-27 12:30:29,384 - [__main__][INFO] Time to simulate 24 hours = 3.411 seconds
+2023-11-27 12:30:29,393 - [__main__][INFO] Time to get results = 0.009 seconds 
+2023-11-27 12:30:29,393 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.740 seconds
+2023-11-27 12:30:29,393 - [__main__][INFO] Finished!
+2023-11-27 12:30:52,828 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:30:54,278 - [__main__][INFO] Time to build simulation for 1 building = 1.450 seconds
+2023-11-27 12:30:57,173 - [__main__][INFO] Time to simulate 24 hours = 2.894 seconds
+2023-11-27 12:30:57,183 - [__main__][INFO] Time to get results = 0.010 seconds 
+2023-11-27 12:30:57,185 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.357 seconds
+2023-11-27 12:30:57,185 - [__main__][INFO] Finished!
+2023-11-27 12:47:41,824 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:47:41,824 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:47:42,119 - [__main__][INFO] Time to build simulation for 1 building = 0.293 seconds
+2023-11-27 12:47:42,119 - [__main__][INFO] Time to build simulation for 1 building = 0.293 seconds
+2023-11-27 12:47:44,786 - [__main__][INFO] Time to simulate 24 hours = 2.666 seconds
+2023-11-27 12:47:44,786 - [__main__][INFO] Time to simulate 24 hours = 2.666 seconds
+2023-11-27 12:47:44,794 - [__main__][INFO] Time to get results = 0.008 seconds 
+2023-11-27 12:47:44,794 - [__main__][INFO] Time to get results = 0.008 seconds 
+2023-11-27 12:47:44,796 - [__main__][INFO] [1mTotal time for bulding_EM tool= 2.971 seconds
+2023-11-27 12:47:44,796 - [__main__][INFO] [1mTotal time for bulding_EM tool= 2.971 seconds
+2023-11-27 12:47:44,796 - [__main__][INFO] Finished!
+2023-11-27 12:47:44,796 - [__main__][INFO] Finished!
+2023-11-27 12:47:54,586 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 12:47:56,058 - [__main__][INFO] Time to build simulation for 1 building = 1.470 seconds
+2023-11-27 12:47:58,652 - [__main__][INFO] Time to simulate 24 hours = 2.592 seconds
+2023-11-27 12:47:58,656 - [__main__][INFO] Time to get results = 0.002 seconds 
+2023-11-27 12:47:58,656 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.068 seconds
+2023-11-27 12:47:58,656 - [__main__][INFO] Finished!
+2023-11-27 14:39:29,906 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 14:39:31,328 - [__main__][INFO] Time to build simulation for 1 building = 1.421 seconds
+2023-11-27 14:39:47,576 - [__main__][INFO] Time to simulate 24 hours = 16.248 seconds
+2023-11-27 14:39:47,583 - [__main__][INFO] Time to get results = 0.006 seconds 
+2023-11-27 14:39:47,584 - [__main__][INFO] [1mTotal time for bulding_EM tool= 17.677 seconds
+2023-11-27 14:39:47,585 - [__main__][INFO] Finished!
+2023-11-27 15:31:00,819 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-11-27 15:31:02,971 - [__main__][INFO] Time to build simulation for 5 building = 2.150 seconds
+2023-11-27 15:32:17,157 - [__main__][INFO] Time to simulate 24 hours = 74.186 seconds
+2023-11-27 15:32:17,174 - [__main__][INFO] Time to get results = 0.016 seconds 
+2023-11-27 15:32:17,175 - [__main__][INFO] [1mTotal time for bulding_EM tool= 76.355 seconds
+2023-11-27 15:32:17,175 - [__main__][INFO] Finished!
+2023-12-07 22:42:11,167 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:42:13,357 - [__main__][INFO] Time to build simulation for 5 building = 2.189 seconds
+2023-12-07 22:44:22,776 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:44:24,458 - [__main__][INFO] Time to build simulation for 2 building = 1.682 seconds
+2023-12-07 22:50:35,205 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:50:36,695 - [__main__][INFO] Time to build simulation for 2 building = 1.490 seconds
+2023-12-07 22:52:09,739 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:11,297 - [__main__][INFO] Time to build simulation for 1 building = 1.555 seconds
+2023-12-07 22:52:17,220 - [__main__][INFO] Time to simulate 24 hours = 5.924 seconds
+2023-12-07 22:52:17,228 - [__main__][INFO] Time to get results = 0.002 seconds 
+2023-12-07 22:52:17,234 - [__main__][INFO] [1mTotal time for bulding_EM tool= 7.493 seconds
+2023-12-07 22:52:23,133 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:23,133 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:23,614 - [__main__][INFO] Time to build simulation for 2 building = 0.478 seconds
+2023-12-07 22:52:23,614 - [__main__][INFO] Time to build simulation for 2 building = 0.478 seconds
+2023-12-07 22:52:26,945 - [__main__][INFO] Time to simulate 24 hours = 3.330 seconds
+2023-12-07 22:52:26,945 - [__main__][INFO] Time to simulate 24 hours = 3.330 seconds
+2023-12-07 22:52:26,955 - [__main__][INFO] Time to get results = 0.009 seconds 
+2023-12-07 22:52:26,955 - [__main__][INFO] Time to get results = 0.009 seconds 
+2023-12-07 22:52:26,957 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.821 seconds
+2023-12-07 22:52:26,957 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.821 seconds
+2023-12-07 22:52:38,784 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:38,784 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:38,784 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:52:39,255 - [__main__][INFO] Time to build simulation for 2 building = 0.468 seconds
+2023-12-07 22:52:39,255 - [__main__][INFO] Time to build simulation for 2 building = 0.468 seconds
+2023-12-07 22:52:39,255 - [__main__][INFO] Time to build simulation for 2 building = 0.468 seconds
+2023-12-07 22:53:47,511 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 22:53:49,094 - [__main__][INFO] Time to build simulation for 2 building = 1.582 seconds
+2023-12-07 22:53:52,188 - [__main__][INFO] Time to simulate 24 hours = 3.091 seconds
+2023-12-07 22:53:52,192 - [__main__][INFO] Time to get results = 0.004 seconds 
+2023-12-07 22:53:52,195 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.684 seconds
+2023-12-07 23:51:39,110 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2023-12-07 23:51:40,399 - [__main__][INFO] Time to build simulation for 1 building = 1.288 seconds
+2023-12-07 23:51:43,228 - [__main__][INFO] Time to simulate 24 hours = 2.828 seconds
+2023-12-07 23:51:43,236 - [__main__][INFO] Time to get results = 0.007 seconds 
+2023-12-07 23:51:43,237 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.126 seconds
+2024-01-16 11:07:28,313 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 11:07:29,764 - [__main__][INFO] Time to build simulation for 1 building = 1.450 seconds
+2024-01-16 11:09:30,799 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 11:09:32,212 - [__main__][INFO] Time to build simulation for 1 building = 1.411 seconds
+2024-01-16 12:03:19,780 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 12:03:21,444 - [__main__][INFO] Time to build simulation for 2 building = 1.663 seconds
+2024-01-16 12:03:24,192 - [__main__][INFO] Time to simulate 24 hours = 2.748 seconds
+2024-01-16 12:03:24,202 - [__main__][INFO] Time to get results = 0.005 seconds 
+2024-01-16 12:03:24,202 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.420 seconds
+2024-01-16 12:13:02,351 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 12:13:03,807 - [__main__][INFO] Time to build simulation for 1 building = 1.456 seconds
+2024-01-16 12:13:06,609 - [__main__][INFO] Time to simulate 24 hours = 2.801 seconds
+2024-01-16 12:13:06,616 - [__main__][INFO] Time to get results = 0.006 seconds 
+2024-01-16 12:13:06,617 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.266 seconds
+2024-01-16 12:13:28,796 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 12:13:30,231 - [__main__][INFO] Time to build simulation for 1 building = 1.433 seconds
+2024-01-16 12:13:53,007 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 12:13:54,297 - [__main__][INFO] Time to build simulation for 1 building = 1.288 seconds
+2024-01-16 12:13:57,106 - [__main__][INFO] Time to simulate 24 hours = 2.809 seconds
+2024-01-16 12:13:57,113 - [__main__][INFO] Time to get results = 0.007 seconds 
+2024-01-16 12:13:57,113 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.105 seconds
+2024-01-16 12:20:11,708 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-01-16 12:20:13,161 - [__main__][INFO] Time to build simulation for 1 building = 1.450 seconds
+2024-01-16 12:20:15,694 - [__main__][INFO] Time to simulate 24 hours = 2.532 seconds
+2024-01-16 12:20:15,699 - [__main__][INFO] Time to get results = 0.004 seconds 
+2024-01-16 12:20:15,699 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.988 seconds
+2024-02-13 16:12:32,829 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:12:34,321 - [__main__][INFO] Time to build simulation for 1 building = 1.492 seconds
+2024-02-13 16:15:38,035 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:15:39,363 - [__main__][INFO] Time to build simulation for 1 building = 1.327 seconds
+2024-02-13 16:16:52,953 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:16:54,221 - [__main__][INFO] Time to build simulation for 1 building = 1.267 seconds
+2024-02-13 16:16:58,405 - [__main__][INFO] Time to simulate 24 hours = 4.184 seconds
+2024-02-13 16:18:14,201 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:18:15,506 - [__main__][INFO] Time to build simulation for 1 building = 1.305 seconds
+2024-02-13 16:18:18,049 - [__main__][INFO] Time to simulate 24 hours = 2.542 seconds
+2024-02-13 16:18:18,058 - [__main__][INFO] Time to get results = 0.008 seconds 
+2024-02-13 16:18:18,058 - [__main__][INFO] [1mTotal time for bulding_EM tool= 3.857 seconds
+2024-02-13 16:22:02,205 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:22:03,531 - [__main__][INFO] Time to build simulation for 1 building = 1.320 seconds
+2024-02-13 16:22:06,565 - [__main__][INFO] Time to simulate 24 hours = 3.034 seconds
+2024-02-13 16:30:17,130 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:30:18,535 - [__main__][INFO] Time to build simulation for 1 building = 1.404 seconds
+2024-02-13 16:30:21,640 - [__main__][INFO] Time to simulate 24 hours = 3.106 seconds
+2024-02-13 16:30:21,650 - [__main__][INFO] Time to get results = 0.005 seconds 
+2024-02-13 16:30:21,650 - [__main__][INFO] [1mTotal time for bulding_EM tool= 4.520 seconds
+2024-02-13 16:31:44,654 - [__main__][INFO] [1mStarting building energy modelling tool[0m
+2024-02-13 16:31:45,981 - [__main__][INFO] Time to build simulation for 1 building = 1.326 seconds
+2024-02-13 16:31:58,941 - [__main__][INFO] Time to simulate 24 hours = 12.961 seconds
+2024-02-13 16:31:58,984 - [__main__][INFO] Time to get results = 0.042 seconds 
+2024-02-13 16:31:58,986 - [__main__][INFO] [1mTotal time for bulding_EM tool= 14.331 seconds

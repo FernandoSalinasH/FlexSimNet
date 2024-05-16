@@ -1,0 +1,16 @@
+ ReadVarsESO
+ processing:c:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\multi_runs\idf_16\in.rvi
+ input file:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17.eso
+ output file:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17.csv
+ getting all vars from:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17.eso
+  number variables requested for output=          13
+ ReadVars Run Time=00hr 00min  0.00sec
+ ReadVarsESO program completed successfully.
+ ReadVarsESO
+ processing:c:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\multi_runs\idf_16\in.mvi
+ input file:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17.mtr
+ output file:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17Meter.csv
+ getting all vars from:C:\Users\ferna\Desktop\U_Laval\MITACS_Hydro_Quebec\10.Generic_Time_Series_Power_Flow\FlexSimNet\idf_residential\idf_17.mtr
+  number variables requested for output=           9
+ ReadVars Run Time=00hr 00min  0.00sec
+ ReadVarsESO program completed successfully.

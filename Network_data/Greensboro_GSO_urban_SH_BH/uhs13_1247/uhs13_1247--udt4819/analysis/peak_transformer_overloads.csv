@@ -1,0 +1,15 @@
+Loading (p.u.),Name,Bus and Phases,kVA,Number of Phases
+1.242312422384589,Transformer.tr(r:udt8610-udt8610lv),udt8610.2,50.0,1
+1.342805668376958,Transformer.tr(r:udt12288-udt12288lv),udt12288.2,50.0,1
+1.3917943757363538,Transformer.tr(r:udt2057-udt2057lv),udt2057.3,50.0,1
+1.431241619166096,Transformer.tr(r:udt11561-udt11561lv),udt11561.1,50.0,1
+1.547668004994437,Transformer.tr(r:udt12931-udt12931lv),udt12931.3,50.0,1
+1.5514250932940628,Transformer.tr(r:udt13045-udt13045lv),udt13045.3,50.0,1
+1.5742737746275826,Transformer.tr(r:udt14441-udt14441lv),udt14441.3,50.0,1
+1.5885092778172258,Transformer.tr(r:udt11324-udt11324lv),udt11324.2,50.0,1
+2.805223154639849,Transformer.tr(r:udt4812-udt4812lv),udt4812.2,50.0,1
+2.9435294789867483,Transformer.tr(r:udt16182-udt16182lv),udt16182.1,25.0,1
+3.059540264506562,Transformer.tr(r:udt7782-udt7782lv),udt7782.1,50.0,1
+3.077144905225579,Transformer.tr(r:udt687-udt687lv),udt687.1,50.0,1
+3.1753459933865327,Transformer.tr(r:udt13541-udt13541lv),udt13541.1,25.0,1
+3.4599062433054564,Transformer.tr(r:udt14533-udt14533lv),udt14533,75.0,3

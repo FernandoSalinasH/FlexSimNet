@@ -1,0 +1,98 @@
+Program Version,EnergyPlus, Version 9.6.0-f420c06a69, YMD=2024.05.14 12:32,
+   ** Warning ** Timestep: Requested number (1) is less than the suggested minimum of 4.
+   **   ~~~   ** Please see entry for Timestep in Input/Output Reference for discussion of considerations.
+   ************* Beginning Zone Sizing Calculations
+   ** Warning ** Weather file location will be used rather than entered (IDF) Location object.
+   **   ~~~   ** ..Location object=INTERNATIONAL FALLS INTL AP_MN_USA DESIGN_CONDITIONS
+   **   ~~~   ** ..Weather File Location=Quebec.City-Ste.Foy-Univ.Laval QC CAN Custom-713920 WMO#=713920
+   **   ~~~   ** ..due to location differences, Latitude difference=[1.79] degrees, Longitude difference=[22.11] degrees.
+   **   ~~~   ** ..Time Zone difference=[1.0] hour(s), Elevation difference=[74.54] percent, [267.60] meters.
+   ** Warning ** GetHTSurfaceData: Surfaces with interface to Ground found but no "Ground Temperatures" were input.
+   **   ~~~   ** Found first in surface=BGWALL_LOWER_LDF
+   **   ~~~   ** Defaults, constant throughout the year of (18.0) will be used.
+   ** Warning ** CalculateZoneVolume: 2 zones are not fully enclosed. For more details use:  Output:Diagnostics,DisplayExtrawarnings; 
+   ** Warning ** CheckUsedConstructions: There are 12 nominally unused constructions in input.
+   **   ~~~   ** For explicit details on each unused construction, use Output:Diagnostics,DisplayExtraWarnings;
+   ** Warning ** GetAirflowNetworkInput: AirflowNetwork:SimulationControl object, 
+   **   ~~~   ** ..Specified AirflowNetwork Control = "MultizoneWithDistribution" and ZoneVentilation:* objects are present.
+   **   ~~~   ** ..ZoneVentilation objects will not be simulated.
+   ************* Beginning System Sizing Calculations
+   ** Warning ** The Standard Ratings is calculated for Coil:Cooling:DX:SingleSpeed = DX COOLING COIL_UNIT1 but not at the AHRI test condition due to curve out of bound.
+   **   ~~~   **  Review the Standard Ratings calculations in the Engineering Reference for this coil type. Also, use Output:Diagnostics, DisplayExtraWarnings for further guidance.
+   ** Warning ** Coil:WaterHeating:AirToWaterHeatPump:Wrapped "HEAT PUMP WATER HEATER EVAPORATOR_UNIT1": Rated air volume flow rate per watt of rated total water heating capacity is out of range
+   **   ~~~   ** Min Rated Vol Flow Per Watt=[4.027E-005], Rated Vol Flow Per Watt=[1.260E-004], Max Rated Vol Flow Per Watt=[8.056E-005]. See Input-Output Reference Manual for valid range.
+   ** Warning ** Water heater = WATER HEATER_TANK_UNIT1:  Recovery Efficiency and Energy Factor could not be calculated during the test for standard ratings
+   **   ~~~   ** Setpoint was never recovered and/or heater never turned on
+   ** Warning ** Check input. Pump nominal power or motor efficiency is set to 0, for pump=MAINS PRESSURE_UNIT1
+   ** Warning ** ValidateDistributionSystem: Heat pump water heater is simulated along with an AirflowNetwork but is not included in the AirflowNetwork.
+   ** Warning ** ValidateDistributionSystem: A ZoneHVAC:EnergyRecoveryVentilator is simulated along with an AirflowNetwork but is not included in the AirflowNetwork.
+   ** Warning ** Output:Meter: invalid Key Name="NATURALGAS:FACILITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="GAS_DRYER:INTERIOREQUIPMENT:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="GAS_RANGE:INTERIOREQUIPMENT:ELECTRICITY" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="INTERIOREQUIPMENT:NATURALGAS" - not found.
+   ** Warning ** Output:Meter: invalid Key Name="HEATING:NATURALGAS" - not found.
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ** Warning ** CalcEquipmentFlowRates: Target water temperature is greater than the hot water temperature
+   **   ~~~   **  During Warmup, Environment=ANNUAL, at Simulation time=01/12 06:00 - 07:00
+   **   ~~~   ** ...target water temperature       = 48.889 C
+   **   ~~~   ** ...hot water temperature       = 48.735 C
+   **   ~~~   ** ...Note: target water temperature should be less than or equal to the hot water temperature
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** CalcEquipmentFlowRates: Target water temperature is greater than the hot water temperature
+   **   ~~~   **  During Warmup, Environment=ANNUAL, at Simulation time=01/12 06:00 - 07:00
+   **   ~~~   ** ...target water temperature       = 48.889 C
+   **   ~~~   ** ...hot water temperature       = 48.735 C
+   **   ~~~   ** ...Note: target water temperature should be less than or equal to the hot water temperature
+   **   ~~~   ** ...Target water temperature should be less than or equal to the hot water temperature. Verify temperature setpoints and schedules.
+   ** Warning ** In Output:Table:Monthly 'COILLOADS' invalid Variable or Meter Name 'HEATING COIL AIR HEATING RATE'
+   ** Warning ** In Output:Table:Monthly 'WATER HEATER: LOADS' invalid Variable or Meter Name 'WATER HEATER TOTAL DEMAND RATE'
+   ** Warning ** In Output:Table:Monthly 'WATER HEATER: LOADS' invalid Variable or Meter Name 'WATER HEATER TOTAL DEMAND ENERGY'
+   ** Warning ** In Output:Table:Monthly 'LIGHTING LOADS' invalid Variable or Meter Name 'ZONE LIGHTS ELECTRIC CONSUMPTION'
+   ** Warning ** In Output:Table:Monthly 'LIGHTING LOADS' invalid Variable or Meter Name 'EXTERIOR LIGHTS ELECTRIC CONSUMPTION'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE PEOPLE TOTAL HEAT GAIN'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE LIGHTS TOTAL HEAT GAIN'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE ELECTRIC EQUIPMENT TOTAL HEAT GAIN'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE GAS EQUIPMENT TOTAL HEAT GAIN'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE OTHER EQUIPMENT TOTAL HEAT GAIN'
+   ** Warning ** In Output:Table:Monthly 'INTERNALGAINS' invalid Variable or Meter Name 'ZONE TOTAL INTERNAL TOTAL HEAT GAIN'
+   ** Warning ** Processing Monthly Tabular Reports: Variable names not valid for this simulation
+   **   ~~~   ** ...use Output:Diagnostics,DisplayExtraWarnings; to show more details on individual variables.
+   ************* Simulation Error Summary *************
+   ************* There are 24 unused schedules in input.
+   ************* There are 18 unused week schedules in input.
+   ************* There are 26 unused day schedules in input.
+   ************* Use Output:Diagnostics,DisplayUnusedSchedules; to see them.
+   *************
+   ************* ===== Recurring Error Summary =====
+   ************* The following recurring error messages occurred.
+   *************
+   *************  ** Warning ** CLOTHES WASHER_UNIT1" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 7645 total times;
+   *************  **   ~~~   **   during Warmup 6493 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=48.862389  Min=2.118541
+   *************
+   *************  ** Warning ** DISHWASHER_UNIT1" - Target water temperature should be less than or equal to the hot water temperature error continues...
+   *************  **   ~~~   **   This error occurred 7645 total times;
+   *************  **   ~~~   **   during Warmup 6493 times;
+   *************  **   ~~~   **   during Sizing 0 times.
+   *************  **   ~~~   **   Max=48.862389  Min=2.118541
+   *************
+   *************
+   ************* ===== Final Error Summary =====
+   ************* The following error categories occurred.  Consider correcting or noting.
+   ************* Nominally Unused Constructions
+   ************* ..The nominally unused constructions warning is provided to alert you to potential conditions that can cause
+   ************* ..extra time during simulation. Each construction is calculated by the algorithm indicated in the HeatBalanceAlgorithm
+   ************* ..object. You may remove the constructions indicated (when you use the DisplayExtraWarnings option).
+   *************
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 2 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 5 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 15321 Warning; 0 Severe Errors; Elapsed Time=00hr 00min  2.24sec
